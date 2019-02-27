@@ -5,3 +5,5 @@ However I got to carried away. As I learned about the power of modding, I got ob
 So, I decided to fix the problem. After hours of research and reading about the mods online, I figured out which mod was causing the error. I removed the mod and restarted my computer and voila, I could go back to playing Minecraft again!
 
 I finally got rid of the problem and enjoyed the game that I had been playing my whole life. It was a relief to play vanilla again, and this time I made sure not to break minceraft with the amount of modsI added on to it.
+
+Unfortunately, I got greedy again and wanted to get back into modding. Instead of modding my own game, I started a Minecraft server and hosted it on a website that provides dedicated RAM for servers. This time I programmed "plugins" to mod the server, and I did not have to worrry about it crashing again. Eventually I got bored and quit Minecraft, but not before building and selling off one of the most successful Minecraft servers to date. The end.
